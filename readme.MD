@@ -8,3 +8,8 @@ https://joindevops.medium.com/why-containerization-is-popular-how-to-understand-
 #  Docker is containerasation platform
 
 ![alt txt](containers.svg)
+
+
+# docker port working
+![alt txt](docker.svg)
+
