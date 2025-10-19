@@ -16,3 +16,9 @@ docker build -t workdir:v1 --no-cache --progress=plain --build-arg trainer=raghu
 docker build -t arg:v1 --no-cache --progress=plain --build-arg version=8 ARG/
 ```
 
+# onbild
+```
+docker build -t onbuild:v1 --no-cache --progress=plain ONBUILD/
+```
+
+
